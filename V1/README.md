@@ -12,5 +12,5 @@ To use the app just run the code and input a message or link and it will save a 
 
 
 ## Links
-[Home page](ath0rus/qr-creator)\
+[Home page](https://github.com/ath0rus/qr-creator)\
 [Main readme](../README.md)
