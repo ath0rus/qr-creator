@@ -12,5 +12,5 @@ To use the app just run the code and input a message or link and it will save a 
 
 
 ## Links
-[Home page](../)\
+[Home page](./)\
 [Main readme](../README.md)
