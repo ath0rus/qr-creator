@@ -2,7 +2,8 @@
 This app is a simple, easy top use and free qr code generator. More features will be added as the app gets updated and with time it will get ported (become available) on other devices
 
 ## Update/ Info
-0.1.0 has been released in [V1](./V1/README.md)
+0.1.0 has been released in V1
+0.2.0 V1 has now been moved to [the archive](./archive)
 
 ## Roadmap
 *in no order*
