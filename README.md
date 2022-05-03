@@ -8,9 +8,11 @@ This app is a simple, easy top use and free qr code generator. More features wil
 ## Roadmap
 *in no order*
 
-- add UI for the app
-- add the ability for the app to run as a standalone app
+- ~~add UI for the app~~
+- add the ability for the app to run as a standalone app (Needs to be improved)
 - add support for background and foregrund colour colouring
 - ability to customise the save location of pictures
 - potential web version
 - Android and IOS app (maybe)
+- add ability to preview before save
+- add custom save path
