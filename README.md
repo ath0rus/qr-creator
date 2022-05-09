@@ -17,3 +17,6 @@ This app is a simple, easy top use and free qr code generator. More features wil
 - Add ability to preview before save
 - Add custom save path
 - Add the ability to make barcodes (yes i know its not a qr code)
+
+## Note
+As much as I want to work on this projct all the time, I just cannot due to stuff i have to do. In a few weeks i should have a fair bit more time to code and maybe release a game in the future
