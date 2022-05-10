@@ -25,7 +25,7 @@ def genqr():
     e1.delete(0, 'end')
     B2.config(state= NORMAL)
     img.save("qr1.png")
-    tk.messagebox.showinfo("QR Code", "Your qr code was made,\nYou can now preview it")
+    # tk.messagebox.showinfo("QR Code", "Your qr code was made,\nYou can now preview it") #un comment out this line to enable the "Your qr code was made" prompt, This will not affect functionality
 
 def open():
     try:
